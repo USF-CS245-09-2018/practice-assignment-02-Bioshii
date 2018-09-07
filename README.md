@@ -1,7 +1,7 @@
 # CS 245 (Fall, 2018) PracticeAssignment02
 Name: Bio (Malik) Owens
 
-Date: 08/30/2018
+Date: 09/06/2018
 
 Class: CS245-02
 
